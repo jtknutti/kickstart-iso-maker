@@ -4,4 +4,5 @@ Instructions:
 
 1. Place a kickstart file named "ks.cfg" and your centOS iso named "linux.iso" in the root of the kickstartMaker folder
 2. Run centoskickstart.sh with sudo priveleges (sudo ./centoskickstart.sh)
-3. Enjoy!
+3. A kickstart ready iso named "kickstart.iso" will be created with a boot option letting you install with your kickstart settings
+4. Enjoy!

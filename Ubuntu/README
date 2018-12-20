@@ -1,0 +1,10 @@
+Instructions:
+ 
+ 1. Include a preseed file named "custom.seed", a kickstart file named "ks.cfg" and an ubuntu iso named "linux.iso"
+ 
+
+**NOTE** the ubuntu iso must be a non live version. These can be difficult to locate, so included is a link to download a non live version of ubuntu server 18.04, which can be installed with only the basic command line, or with a GUI
+http://cdimage.ubuntu.com/ubuntu/releases/18.04/release/ubuntu-18.04.1-server-amd64.iso
+ 
+ 2. Run ubuntukickstart.sh with sudo priveleges (sudo ./ubuntukickstart.sh). You may have to give the file executable permissions, this is done with "sudo chmod +x ubuntukickstart.sh"
+
